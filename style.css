@@ -107,3 +107,58 @@ align-items: center;
 box-shadow: 4px 4px 8px gray;
 text-align: justify;
 }
+.target-container{
+text-align: center;
+padding: 50px;
+}
+.box{
+text-align: justify;
+width: 200px;
+height: 200px;
+padding: 20px;
+border-radius: 7px;
+}
+.html-box{
+ background-color:#FFF7F4;
+}
+.css-box{
+background-color: #F2F6FE;
+}
+.js-box{
+background-color: #FFFDF2;
+}
+.box-container{
+display: flex;
+justify-content: space-around;
+margin-top: 30px;
+}
+.box img{
+padding: 20px;
+}
+footer{
+display: flex;
+justify-content: space-around;
+background-color: rgb(247, 244, 244);
+}
+.inspiration-content{
+padding: 30px;
+margin: 30px;
+}
+.mongo{
+margin-top: 20px;
+}
+.box-style{
+display: flex;
+justify-content: space-evenly;
+box-shadow: 4px 4px 4px 2px gray;
+align-items: center;
+padding: 20px;
+margin-top: 10px;
+}
+.next-title{
+margin-top: 15px;
+padding:10px;
+}
+.my-next-target{
+width: 100%;
+}
